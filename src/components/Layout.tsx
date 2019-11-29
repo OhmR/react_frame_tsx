@@ -17,7 +17,7 @@ function MainLayout(props: {
                 <Content style={{ margin: '0 16px' }}>
                     {props.children}
                 </Content>
-                <Footer style={{ textAlign: 'center' }}>Ant Design ©2018 Created by Ant UED</Footer>
+                <Footer style={{ textAlign: 'center' }}>Test for react antd and react hooks</Footer>
             </Layout>
         </Layout>
     )
